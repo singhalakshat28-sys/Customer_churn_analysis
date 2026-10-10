@@ -100,4 +100,4 @@ This project demonstrates how exploratory data analysis can be used to identify 
 
 ## Author
 
-This notebook and project documentation were created for a customer churn analysis exercise.
+This notebook and project documentation were created by Akshat Singhal
